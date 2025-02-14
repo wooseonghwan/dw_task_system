@@ -13,7 +13,7 @@ const String PAGE_LOGIN_PAGE = "LOGIN"; //로그인
 
 
 
-class vDashboard {
+class dw_system {
   static String _ID_API_WIFI = '/api/v1/wifi';
 
 
